@@ -13,7 +13,6 @@ class Temperature
 
     public function __construct(float $celsuis)
     {
-        
         $this->celsuis = $celsuis;
     }
 
