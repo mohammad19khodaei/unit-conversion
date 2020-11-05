@@ -10,7 +10,7 @@ class WeightTest extends TestCase
     /** @test */
     public function it_can_calculate_kilogerams_to_lbs()
     {
-        $lbs = Weight::kilogerams(200)->toLbs();
+        $lbs = Weight::fromKilogerams(200)->toLbs();
 
         $this->assertEquals(440.92, $lbs);
     }
