@@ -2,13 +2,12 @@
 
 namespace Mohammad19khodaei\UnitConversion;
 
-use Exception;
-
 class Weight
 {
     private float $kilogerams;
 
-    public static function fromKilogerams(float $kilogerams): self{
+    public static function fromKilogerams(float $kilogerams): self
+    {
         return new self($kilogerams);
     }
 
