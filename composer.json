@@ -1,16 +1,16 @@
 {
-    "name": ":vendor_name/:package_name",
-    "description": ":package_description",
+    "name": "mohammad19khodaei/unit-conversion",
+    "description": "Perfom unit conversion in PHP",
     "keywords": [
-        ":vendor_name",
-        ":package_name"
+        "mohammad19khodaei",
+        "unit-conversion"
     ],
-    "homepage": "https://github.com/:vendor_name/:package_name",
+    "homepage": "https://github.com/mohammad19khodaei/unit-conversion",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
+            "name": "Mohammad Khodaei",
+            "email": "mohammad19khodaei@gmail.com",
             "homepage": "https://spatie.be",
             "role": "Developer"
         }
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\Skeleton\\": "src"
+            "Mohammad19khodaei\\UnitConversion\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\Skeleton\\Tests\\": "tests"
+            "Mohammad19khodaei\\UnitConversion\\Tests\\": "tests"
         }
     },
     "scripts": {
