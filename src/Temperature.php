@@ -16,7 +16,7 @@ class Temperature
         $this->celsuis = $celsuis;
     }
 
-    public function toFahrenhite()
+    public function toFahrenhite(): float
     {
         return ($this->celsuis * 1.8) + 32;
     }
