@@ -16,7 +16,7 @@ class Weight
         $this->kilogerams = $kilogerams;
     }
 
-    public function toLbs()
+    public function toLbs(): float
     {
         return $this->kilogerams * 2.2046;
     }
