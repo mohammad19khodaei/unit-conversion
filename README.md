@@ -1,7 +1,7 @@
 # Perfom unit conversion in PHP
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/mohammad19khodaei/unit-conversion.svg?style=flat-square)](https://packagist.org/packages/mohammad19khodaei/unit-conversion)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/mohammad19khodaei/unit-conversion/run-tests?label=tests)](https://github.com/mohammad19khodaei/unit-conversion/actions?query=workflow%3ATests+branch%3Amaster)
+![Tests](https://github.com/mohammad19khodaei/unit-conversion/workflows/Tests/badge.svg)
 [![Total Downloads](https://img.shields.io/packagist/dt/mohammad19khodaei/unit-conversion.svg?style=flat-square)](https://packagist.org/packages/mohammad19khodaei/unit-conversion)
 
 
